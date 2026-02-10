@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+Practitioner;Building+Real+World+Projects;Always+Learning+%F0%9F%9A%80&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+Practitioner;Business+Focused+Analytics;Always+Learning+%F0%9F%9A%80&center=true&width=600&height=45">
 </p>
 
 ---
@@ -19,9 +19,9 @@
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🎓 **B.E. in Artificial Intelligence & Machine Learning (2022–2026)**
-- 📊 Passionate about **Data Analytics, ML & Visualization**
+- 📊 Focused on **Data Analytics, ML & Visualization**
 - 🧠 Strong in **EDA, Feature Engineering & Predictive Modeling**
-- 🌱 Building **real-world, business-focused projects**
+- 🌱 Building **clean, real-world, business-focused solutions**
 - 📍 **Bangalore, India**
 
 📧 **Email:** adityakumar4854@gmail.com  
@@ -47,82 +47,22 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
 
----
-
-## 💼 Experience
-<img align="right" width="280" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
-
-### 📌 Data Analytics Intern – *UptoSkill* (Remote)  
-🗓 **Nov 2025 – Jan 2026**
-
-- 🔍 Data mining, cleaning & preprocessing  
-- 📈 Created **EDA reports and dashboards**  
-- 💡 Delivered insights for **data-driven decisions**
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
 
 ---
 
-## 📂 Featured Projects
+## 📌 Focus Areas
+<img align="right" width="260" src="https://media.giphy.com/media/3o7btNhMBytxAM6YBa/giphy.gif"/>
 
-### 🌍 AI-Based Air Quality Monitoring System
-<img src="https://media.giphy.com/media/l0HlQ7LRal8Nw9MPy/giphy.gif" width="420"/>
-
-- IoT sensors (**MQ135, DHT11**) for real-time monitoring  
-- **Random Forest** model for AQI prediction  
-- Interactive AQI trend dashboard  
-
----
-
-### 🔄 Customer Churn Prediction & Retention Analysis
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="420"/>
-
-- Analyzed **7,000+ customer records**  
-- Identified churn drivers using EDA & ML  
-- Retention-focused business insights  
-
----
-
-### 🎬 Netflix Movies & TV Shows Analysis (SQL)
-<img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="420"/>
-
-- 15+ advanced SQL queries  
-- Genre, rating & country analysis  
-- Business-oriented insights  
-
----
-
-### 🍽️ Zomato Data Analysis
-<img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="420"/>
-
-- Restaurant ratings & pricing trends  
-- Customer behavior insights  
-- Python-based EDA  
-
----
-
-### 📊 BI Dashboard Projects
-<img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="420"/>
-
-- Interactive **Power BI dashboards**  
-- KPIs, DAX & data storytelling  
-- Clean, actionable visuals  
-
----
-
-## 🏆 Certifications
-<img align="right" width="260" src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif"/>
-
-- 🥇 Tata – GenAI Powered Data Analytics  
-- 🥇 Deloitte – Data Analytics Simulation  
-- 🥇 IBM – Data Science  
-- 🥇 HackerRank – SQL (Intermediate)  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityakumar143&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityakumar143&theme=tokyonight" height="170"/>
-</p>
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Business Insight Generation  
+- Predictive Modeling  
+- Dashboard Design & Storytelling  
 
 ---
 
