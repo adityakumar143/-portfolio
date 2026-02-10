@@ -1,0 +1,59 @@
+[
+    {
+        "name": "MS Excel",
+        "icon": "https://img.icons8.com/?size=100&id=117561&format=png&color=000000"
+    },
+    {
+        "name": "Power BI",
+        "icon": "https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000"
+    },
+    {
+        "name": "Tableau",
+        "icon": "https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000"
+    },
+    {
+        "name": "Google Sheets",
+        "icon": "https://img.icons8.com/?size=100&id=qrAVeBIrsjod&format=png&color=000000"
+    },
+    {
+        "name": " Pandas",
+        "icon": "https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000"
+    },
+    {
+        "name": "Numpy",
+        "icon": "https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000"
+    },
+    {
+        "name": "Matplotlib",
+        "icon": "https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000"
+    },
+    {
+        "name": "Jupyter Notebook",
+        "icon": "https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000"
+    },
+    {
+        "name": "PyCharm",
+        "icon": "https://img.icons8.com/?size=100&id=Rffi8qeb2fK5&format=png&color=000000"
+    },
+    {
+        "name": "VS Code,",
+        "icon": "https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name":"Machine Learning",
+        "icon":"https://img.icons8.com/?size=44&id=IJyJrL3znN8t&format=png"
+    } 
+]

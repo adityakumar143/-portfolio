@@ -1,0 +1,56 @@
+[
+  {
+  "name": "AI-Based Air Quality Monitoring System",
+  "desc": "An IoT and Machine Learning-based system to monitor real-time air quality and predict Air Quality Index (AQI) using sensor data and ML models.",
+  "image": "p1",
+  "category": "iot/ml",
+  "links": {
+    "github": "https://github.com/adityakumar143/AQMS.git"
+  }
+},
+  {
+    "name": "Marketing Campaign Analysis Project",
+    "desc": "A data analysis project that explores customer demographics, spending behavior, and marketing campaign effectiveness using EDA and visualization to derive insights.",
+    "image": "p2",
+    "category": "data-analysis",
+    "links": {
+      "github": "https://github.com/adityakumar143/Marketing-Campaign-Analysis-Project.git"
+    }
+  },
+  {
+    "name": "Customer Churn Prediction & Retention Analysis",
+    "desc": "A data science project to predict customer churn using machine learning and provide retention scoring and business insights for improving customer retention strategies.",
+    "image": "p3",
+    "category": "data-science/ml",
+    "links": {
+      "github": "https://github.com/adityakumar143/Customer-Churn-Prediction-Retention-Analysis.git"
+    }
+  },
+  {
+    "name": "BI Dashboard Projects",
+    "desc": "A collection of interactive business intelligence dashboards built using popular tools like Power BI to visualize key business metrics and insights across different domains.",
+    "image": "p4",
+    "category": "business-intelligence",
+    "links": {
+      "github": "https://github.com/adityakumar143/BI-dashboard-projects.git"
+    }
+  },
+  {
+    "name": "Netflix Data Analysis Using SQL",
+    "desc": "A SQL-based data analysis project on Netflix content to explore movies and TV shows by genre, country, release year, ratings, and duration using complex SQL queries.",
+    "image": "p5",
+    "category": "sql/data-analysis",
+    "links": {
+      "github": "https://github.com/adityakumar143/Netflix-project-using-sql.git"
+    }
+  },
+  {
+    "name": "Zomato Data Analysis",
+    "desc": "A data analysis project that explores and visualizes restaurant and food delivery patterns, ratings, and trends using the Zomato dataset with insights for business and customer behavior.",
+    "image": "p6",
+    "category": "data-analysis",
+    "links": {
+      "github": "https://github.com/adityakumar143/zomato.git"
+    }
+  }
+]
