@@ -1,4 +1,4 @@
- # 🚀 Aditya Kumar – Data Analytics & Data Science Portfolio
+# 🚀 Aditya Kumar – Data Analytics & Data Science Portfolio
 
 Welcome to my portfolio!  
 I’m **Aditya Kumar**, a **Data Analytics & Data Science enthusiast** with strong hands-on experience in **Python, SQL, Machine Learning, and Business Intelligence tools**. I enjoy transforming raw data into meaningful insights that support data-driven decision-making.
